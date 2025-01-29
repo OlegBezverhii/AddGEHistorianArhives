@@ -1,0 +1,11 @@
+C:\Users\OSPAS\source\repos\AddArch\AddArch\bin\Debug\AddArch.exe
+C:\Users\OSPAS\source\repos\AddArch\AddArch\bin\Debug\AddArch.pdb
+C:\Users\OSPAS\source\repos\AddArch\AddArch\bin\Debug\Proficy.Historian.ClientAccess.API.dll
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.csprojAssemblyReference.cache
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.Form1.resources
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.Properties.Resources.resources
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.csproj.GenerateResource.cache
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.csproj.CoreCompileInputs.cache
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.csproj.CopyComplete
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.exe
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Debug\AddArch.pdb

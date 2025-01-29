@@ -1,0 +1,13 @@
+C:\Users\OSPAS\source\repos\AddArch\AddArch\bin\Release\AddArch.exe
+C:\Users\OSPAS\source\repos\AddArch\AddArch\bin\Release\AddArch.pdb
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.csprojAssemblyReference.cache
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.Form1.resources
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.Properties.Resources.resources
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.csproj.GenerateResource.cache
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.csproj.CoreCompileInputs.cache
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.exe
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.pdb
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\Interop.IHistorian_API.dll
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\Interop.iHistorian_SDK.dll
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\Interop.VBA.dll
+C:\Users\OSPAS\source\repos\AddArch\AddArch\obj\Release\AddArch.csproj.ResolveComReference.cache

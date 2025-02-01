@@ -7,9 +7,11 @@
 ### Инструкция в картинках
 
 В имя сервера стоит локальное имя компьютера, поэтому сразу жмем "Connect".
+
 <img src="https://raw.githubusercontent.com/OlegBezverhii/AddGEHistorianArhives/refs/heads/main/Pictures/1.PNG"/>
 
 В случае успеха выйдет окно с следующим текстом:
+
 <img src="https://raw.githubusercontent.com/OlegBezverhii/AddGEHistorianArhives/refs/heads/main/Pictures/2.PNG"/>
 
 Надпись "Состояние" напротив "Имя сервера" изменится на "Подключено" в синем цвете. В "Data Store Name" появятся текущие хранилища данных на данном сервере:
